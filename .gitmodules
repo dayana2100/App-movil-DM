@@ -1,0 +1,9 @@
+[submodule "App-dm-frontend"]
+	path = App-dm-frontend
+	url = https://github.com/dayana2100/App-dm-frontend.git
+[submodule "App-dm-backend"]
+	path = App-dm-backend
+	url = https://github.com/dayana2100/App-dm-backend.git
+[submodule "App-dm-database"]
+	path = App-dm-database
+	url = https://github.com/dayana2100/App-dm-database.git
